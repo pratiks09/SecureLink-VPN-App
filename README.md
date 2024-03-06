@@ -31,5 +31,5 @@
 <li>And Much More....
 </ul>
   
-For Feedback or Suggestions Mail Me At om.delvadia02@gmail.com 🙂
+For Feedback or Suggestions Mail Me At pratiks09092018@gmail.com 🙂
 

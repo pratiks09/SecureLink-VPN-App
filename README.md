@@ -3,8 +3,6 @@
 ![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
-##Note: Google Ads are integrated in the project with firebase for dynamics AD IDs (if you want them to work fine then configure firebase and some changes).
-
 <b>Simple, Decent & Free VPN Application based on OpenVPN Protocol.</b></br>
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
@@ -26,9 +24,7 @@
 <li>No Signing Required
 <li>IP Address Test
 <li>Data Caching
-<li>Google Test Ads Integrated
 <li>Decent UI with New Material Widgets
-<li>And Much More....
 </ul>
   
 For Feedback or Suggestions Mail Me At pratiks09092018@gmail.com 🙂
